@@ -1,33 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@princekalra 
-princekalra
-/
-Ecommerce-Site
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Ecommerce-Site/amazon/README.md
-@princekalra
-princekalra Update README.md
-Latest commit 8a8b447 yesterday
- History
- 1 contributor
-68 lines (36 sloc)  2.74 KB
   
 This project was bootstrapped with Create React App.
 
@@ -84,15 +55,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 yarn build fails to minify
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
